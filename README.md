@@ -1,4 +1,5 @@
 ### Deep Learning Book Club 
+
 [Book Website] (http://www.deeplearningbook.org/)
 
 [Possible course material] (https://www.cs.princeton.edu/courses/archive/spring16/cos495/)
