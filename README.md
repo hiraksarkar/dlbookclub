@@ -8,8 +8,8 @@ Problem Sets: Previous link HW problems
 ## Chapter 1 
 Topics to cover. 
 
-1. LearningAlgorithms ......................... 99
-2. Capacity,OverfittingandUnderfitting . . . . . . . . . . . . . . . 110
+1. Learning Algorithms ......................... 99
+2. Capacity, Overfitting and Underfitting . . . . . . . . . . . . . . . 110
 3. Hyperparameters and ValidationSets. . . . . . . . . . . . . . . . 120
 4. Estimators,Bias and Variance.................... 122
 5. Maximum Likelihood Estimation .................. 131
